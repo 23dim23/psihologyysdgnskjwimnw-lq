@@ -1,0 +1,6 @@
+{
+  "name": "Психология для психов — Telegram Mini App & Admin CMS",
+  "description": "Комплексная система закрытого психологического клуба: Telegram Mini App (база из 9+ видеоуроков, материалы, управление подпиской ЮKassa 2 500 ₽/мес), симулятор Telegram-бота с воронкой и автосообщениями, полноценная админ-панель и интерактивное КП.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
